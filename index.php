@@ -32,6 +32,7 @@
     </style>
 </head>  
 <body>  
+    <?php echo Hello ?>
     <input type="file" id="fileUpload" />
     <input type="button" id="upload" value="Upload" onclick="Upload()" />
     <hr />
